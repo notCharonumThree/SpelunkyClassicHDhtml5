@@ -20,7 +20,7 @@ function createWindow () {
         backgroundColor: "#000000",
         frame: false,
         resizable: true,
-        icon: path.join(__dirname, 'assets/icon.png'),
+        icon: path.join('https://cdn.jsdelivr.net/gh/yancharkin/SpelunkyClassicHDhtml5/src/assets/icon.png'),
         webPreferences: {
             nodeIntegration: true
         }
